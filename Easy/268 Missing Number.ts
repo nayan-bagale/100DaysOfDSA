@@ -17,17 +17,15 @@ const missingNumber = (nums: number[]): number => {
   let i = 0;
 
   while (i < nums.length) {
-    if (i === nums[i] || nums[i] === nums.length) {
+    if (i !== nums[i] && nums[i] < nums.length) {
+      swap(i, nums[i], nums);
+    } else {
       i++;
-      continue;
     }
-    swap(i, nums[i], nums);
   }
 
-  i = 0;
-  while (i < nums.length) {
-    if (nums[i] !== i) return i;
-    i++;
+  for (let index = 0; index < nums.length; index++) {
+    if (nums[index] !== index) return index;
   }
 
   return nums.length;
