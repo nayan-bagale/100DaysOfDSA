@@ -18,6 +18,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 - Day 5: [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | [Code](/Medium/287%20Find%20the%20Duplicate%20Number.ts)
 - Day 6: [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Code](/Medium/33%20Search%20in%20Rotated%20Sorted%20Array.ts)
 - Day 7: [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [Code](/Hard/41%20First%20Missing%20Positive.ts)
+- Day 8: [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [Code](/Hard/1095%20Find%20in%20Mountain%20Array.ts)
 
 ## Contributing
 
