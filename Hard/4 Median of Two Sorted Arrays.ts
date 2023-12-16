@@ -1,3 +1,5 @@
+//#TODO:Solve this using binary search
+
 function findMedianSortedArrays(nums1: number[], nums2: number[]): string {
   let size1 = nums1.length,
     size2 = nums2.length,

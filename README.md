@@ -5,7 +5,7 @@ Welcome to my **🚀100DaysOfDSA** challenge. This repository contains my soluti
 ## Technologies Used
 
 - **TypeScript**: All solutions are implemented in TypeScript, a statically typed superset of JavaScript that adds types to the language.
-  
+
 ## Structure
 
 The repository is structured by difficulty (Easy, Medium, Hard), but you can also follow it by days:
@@ -19,6 +19,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 - Day 6: [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Code](/Medium/33%20Search%20in%20Rotated%20Sorted%20Array.ts)
 - Day 7: [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [Code](/Hard/41%20First%20Missing%20Positive.ts)
 - Day 8: [1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [Code](/Hard/1095%20Find%20in%20Mountain%20Array.ts)
+- Day 9: [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [Code](/Medium/852%20Peak%20Index%20in%20a%20Mountain%20Array.ts)
 
 ## Contributing
 
@@ -27,4 +28,3 @@ Contributions, issues, and feature requests are welcome!
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
