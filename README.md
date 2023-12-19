@@ -22,6 +22,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 - Day 9: [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [Code](/Medium/852%20Peak%20Index%20in%20a%20Mountain%20Array.ts)
 - Day 10: [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Code](/Hard/4%20Median%20of%20Two%20Sorted%20Arrays.ts)
 - Day 11: [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/) | [Code](/Easy/1539%20Kth%20Missing%20Positive%20Number.ts)
+- Day 12: [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [Code](</Medium//50%20Pow(x,%20n).ts>)
 
 ## Contributing
 
