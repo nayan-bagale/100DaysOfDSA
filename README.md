@@ -24,6 +24,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 - Day 11: [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/) | [Code](/Easy/1539%20Kth%20Missing%20Positive%20Number.ts)
 - Day 12: [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [Code](</Medium//50%20Pow(x,%20n).ts>)
 - Day 13: [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) | [Code](/Easy//744%20Find%20Smallest%20Letter%20Greater%20Than%20Target.ts)
+- Day 14: [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/) | [Code](/Easy/1342%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.ts)
 
 ## Contributing
 
