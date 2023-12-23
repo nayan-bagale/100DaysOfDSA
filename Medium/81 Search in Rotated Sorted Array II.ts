@@ -1,47 +1,36 @@
-function search(nums: number[], target: number): number {
-return (pivot(nums));
+const search = (nums:number[],target:number) => modifiedBinarySearch(nums,target,0,nums.length-1);
 
-}
-const pivot = (nums: number[]) => {
+const modifiedBinarySearch = (
+  nums: number[],
+  target: number,
+  start: number,
+  end: number
+) => {
+  if (start > end) return false;
 
-    let start=0,
-    mid=-1,
-    end=nums.length-1;
-    while(start < end){
-        mid = start + Math.floor((end - start)/2);
+  let mid = start + Math.floor((end - start) / 2);
+  if (nums[mid] === target) return true;
 
-        if( end > mid && nums[mid] < nums[mid-1]){
-            return mid;
-        }
+  if (nums[start] === nums[mid] && nums[mid] === nums[end]) {
+    return modifiedBinarySearch(nums, target, start + 1, end - 1);
+  }
 
-        if(nums[end] === nums[end-1]){
-            end=end-1;
-            continue;
-        }
-
-        if(nums[start] === nums[end]){
-            if(nums[start] > nums[start + 1]){
-                return start+1
-            }
-            start++
-            if(nums[end-1] > nums[end]){
-                return end
-            }
-            end--
-        }else if(nums[mid] > nums[end]){
-            start = mid+1;
-        }else{
-            end = mid-1;
-        }
-
+  if (nums[start] <= nums[mid]) {
+    if (nums[start] <= target && target <= nums[mid]) {
+      return modifiedBinarySearch(nums, target, start, mid - 1);
+    } else {
+      return modifiedBinarySearch(nums, target, mid + 1, end);
     }
-    return start;
-}
+  } else {
+    if (nums[mid] <= target && target <= nums[end]) {
+      return modifiedBinarySearch(nums, target, mid + 1, end);
+    } else {
+      return modifiedBinarySearch(nums, target, start, mid - 1);
+    }
+  }
+};
 
-console.log(search([2, 5, 6, 0, 0, 1, 2], 0)); //true
-console.log(search([2, 5, 6, 0, 0, 1, 2], 3)); //false
+console.log(search([2, 5, 6, 0, 0, 1, 2], 0));
+console.log(search([2, 5, 6, 0, 0, 1, 3], 3));
 console.log(search([1, 0, 1, 1, 1], 0));
-console.log(search([0,0,1,2,2,5,6], 0));
-console.log(search([0,0,1,2,4,5], 0));
-console.log(search([9,10,22,40,60,60,0,0,0,0,0], 0));
-
+console.log(search([5, 1, 3], 5));
