@@ -27,6 +27,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 - Day 14: [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/) | [Code](/Easy/1342%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.ts)
 - Day 15: [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Code](/Easy/20%20Valid%20Parentheses.ts)
 - Day 16: [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) | [Code](/Hard/154%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.ts)
+- Day 17: [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) | [Code](/Medium/81%20Search%20in%20Rotated%20Sorted%20Array%20II.ts)
 
 ## Contributing
 
