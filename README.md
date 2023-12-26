@@ -28,6 +28,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 - Day 15: [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Code](/Easy/20%20Valid%20Parentheses.ts)
 - Day 16: [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) | [Code](/Hard/154%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.ts)
 - Day 17: [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) | [Code](/Medium/81%20Search%20in%20Rotated%20Sorted%20Array%20II.ts)
+- Day 18: [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Code](/Medium/39%20Combination%20Sum.ts)
 
 ## Contributing
 
