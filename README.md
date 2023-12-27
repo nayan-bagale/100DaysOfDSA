@@ -29,6 +29,8 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 - Day 16: [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) | [Code](/Hard/154%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.ts)
 - Day 17: [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) | [Code](/Medium/81%20Search%20in%20Rotated%20Sorted%20Array%20II.ts)
 - Day 18: [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Code](/Medium/39%20Combination%20Sum.ts)
+- Day 19: [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Code](/Medium/167%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.ts)
+- Day 20: [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Code](/Medium//73%20Set%20Matrix%20Zeroes.ts)
 
 ## Contributing
 
