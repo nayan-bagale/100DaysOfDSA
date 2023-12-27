@@ -3,7 +3,7 @@
  * @return {void} Do not return anything, modify matrix in-place instead.
  */
 
-var setZeroes = function (matrix) {
+var setZeroes = function (matrix:number[][]): void {
     let rows: number[] = [];
     let cols: number[] = [];
   for (let i = 0; i < matrix.length; i++) {
