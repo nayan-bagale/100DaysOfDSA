@@ -35,6 +35,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 | 20 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [`</>`](/Medium//73%20Set%20Matrix%20Zeroes.ts) |
 | 21 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [`</>`](/Medium//17%20Letter%20Combinations%20of%20a%20Phone%20Number.ts) |
 | 22 | [46. Permutations](https://leetcode.com/problems/permutations/description/) | [`</>`](/Medium/46%20Permutations.ts) |
+| 23 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [`</>`](/Easy/88%20Merge%20Sorted%20Array.ts) |
 
 
 ## Contributing
