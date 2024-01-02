@@ -37,6 +37,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 | 22 | [46. Permutations](https://leetcode.com/problems/permutations/description/) | [`</>`](/Medium/46%20Permutations.ts) |
 | 23 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [`</>`](/Easy/88%20Merge%20Sorted%20Array.ts) |
 | 24 | [51. N-Queens](https://leetcode.com/problems/n-queens/description/) | [`</>`](/Hard/51%20N-Queens.ts) |
+| 25 | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [`</>`](/Medium/6%20Zigzag%20Conversion.ts) |
 
 
 ## Contributing
