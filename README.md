@@ -38,6 +38,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 | 23 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [`</>`](/Easy/88%20Merge%20Sorted%20Array.ts) |
 | 24 | [51. N-Queens](https://leetcode.com/problems/n-queens/description/) | [`</>`](/Hard/51%20N-Queens.ts) |
 | 25 | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [`</>`](/Medium/6%20Zigzag%20Conversion.ts) |
+| 26 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [`</>`](/Easy/83%20Remove%20Duplicates%20from%20Sorted%20List.ts) |
 
 
 ## Contributing
