@@ -1,17 +1,10 @@
 function combinationSum3(k: number, n: number): number[][] {
   let ans: number[][] = [];
-
   helper([], k, n, ans);
-
   return ans;
 }
 
-const helper = (
-  arr: number[],
-  k: number,
-  n: number,
-  ans: number[][]
-) => {
+const helper = (arr: number[], k: number, n: number, ans: number[][]) => {
   if (arr.length === k) {
     if (n === 0) {
       ans.push([...arr]);
