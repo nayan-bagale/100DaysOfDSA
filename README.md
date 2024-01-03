@@ -40,6 +40,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 | 25 | [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [`</>`](/Medium/6%20Zigzag%20Conversion.ts) |
 | 26 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [`</>`](/Easy/83%20Remove%20Duplicates%20from%20Sorted%20List.ts) |
 | 27 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [`</>`](/Easy/21%20Merge%20Two%20Sorted%20Lists.ts) |
+| 28 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | [`</>`](/Medium/216%20Combination%20Sum%20III.ts) |
 
 
 ## Contributing
