@@ -29,4 +29,4 @@ const helper = (
   return;
 };
 
-console.log(combinationSum3(3, 9));
+// console.log(combinationSum3(3, 9));
