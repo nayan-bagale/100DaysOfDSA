@@ -41,6 +41,8 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 | 26 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [`</>`](/Easy/83%20Remove%20Duplicates%20from%20Sorted%20List.ts) |
 | 27 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [`</>`](/Easy/21%20Merge%20Two%20Sorted%20Lists.ts) |
 | 28 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | [`</>`](/Medium/216%20Combination%20Sum%20III.ts) |
+| 29 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [`</>`](/Medium/40%20Combination%20Sum%20II.ts) |
+| 30 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [`</>`](/Easy/141%20Linked%20List%20Cycle.ts) |
 
 
 ## Contributing
