@@ -43,7 +43,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 | 28 | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | [`</>`](/Medium/216%20Combination%20Sum%20III.ts) |
 | 29 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [`</>`](/Medium/40%20Combination%20Sum%20II.ts) |
 | 30 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [`</>`](/Easy/141%20Linked%20List%20Cycle.ts) |
-| 30 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [`</>`](/Medium/7%20Reverse%20Integer.ts) |
+| 31 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [`</>`](/Medium/7%20Reverse%20Integer.ts) |
 
 
 ## Contributing
