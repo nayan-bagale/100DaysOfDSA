@@ -45,6 +45,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 | 30 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [`</>`](/Easy/141%20Linked%20List%20Cycle.ts) |
 | 31 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [`</>`](/Medium/7%20Reverse%20Integer.ts) |
 | 32 | [202. Happy Number](https://leetcode.com/problems/happy-number/description/) | [`</>`](/Easy/202%20Happy%20Number.ts) |
+| 33 | [78. Subsets](https://leetcode.com/problems/subsets/description/) | [`</>`](/Medium/78%20Subsets.ts) |
 
 
 ## Contributing
