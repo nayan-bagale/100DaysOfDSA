@@ -49,6 +49,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 | 34 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [`</>`](/Medium/2%20Add%20Two%20Numbers.ts) |
 | 35 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [`</>`](/Medium/142%20Linked%20List%20Cycle%20II.ts) |
 | 36 | [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | [`</>`](/Medium/90%20Subsets%20II.ts) |
+| 37 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [`</>`](/Easy/206%20Reverse%20Linked%20List.ts) |
 
 
 ## Contributing
