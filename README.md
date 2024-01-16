@@ -52,6 +52,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 | 37 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [`</>`](/Easy/206%20Reverse%20Linked%20List.ts) |
 | 38 | [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [`</>`](/Medium/92%20Reverse%20Linked%20List%20II.ts) |
 | 39 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [`</>`](/Easy/234%20Palindrome%20Linked%20List.ts) |
+| 40 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [`</>`](/Medium/19%20Remove%20Nth%20Node%20From%20End%20of%20List.ts) |
 
 
 ## Contributing
