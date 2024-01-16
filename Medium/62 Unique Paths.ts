@@ -1,11 +1,12 @@
 // TODO: time excede error fix it
 
 function uniquePaths(m: number, n: number): number {
-  let arr = new Array(m).fill(new Array(n).fill(false));
+  let arr = new Array(m).fill([]).map(() => new Array(n).fill(false))
   return pathFinder(arr, 0, 0);
 }
 
 const pathFinder = (arr: boolean[][], r: number, c: number): number => {
+  
   if (r === arr.length - 1 && c === arr[0].length - 1) {
     return 1;
   }
