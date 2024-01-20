@@ -54,6 +54,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 | 39 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [`</>`](/Easy/234%20Palindrome%20Linked%20List.ts) |
 | 40 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [`</>`](/Medium/19%20Remove%20Nth%20Node%20From%20End%20of%20List.ts) |
 | 41 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [`</>`](/Hard/23%20Merge%20K%20Sorted%20Lists.ts) |
+| 42 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [`</>`](/Medium/47%20Permutations%20II.ts) |
 
 
 ## Contributing
