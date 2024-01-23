@@ -56,6 +56,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 | 41 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [`</>`](/Hard/23%20Merge%20K%20Sorted%20Lists.ts) |
 | 42 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [`</>`](/Medium/47%20Permutations%20II.ts) |
 | 43 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [`</>`](/Easy/242%20Valid%20Anagram.ts) |
+| 44 | [79. Word Search](https://leetcode.com/problems/word-search/description/) | [`</>`](/Medium/79%20Word%20Search.ts) |
 
 
 ## Contributing
