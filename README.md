@@ -57,6 +57,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 | 42 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [`</>`](/Medium/47%20Permutations%20II.ts) |
 | 43 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [`</>`](/Easy/242%20Valid%20Anagram.ts) |
 | 44 | [79. Word Search](https://leetcode.com/problems/word-search/description/) | [`</>`](/Medium/79%20Word%20Search.ts) |
+| 45 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) | [`</>`](/Medium/131%20Palindrome%20Partitioning.ts) |
 
 
 ## Contributing
