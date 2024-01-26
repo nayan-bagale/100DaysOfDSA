@@ -59,6 +59,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 | 44 | [79. Word Search](https://leetcode.com/problems/word-search/description/) | [`</>`](/Medium/79%20Word%20Search.ts) |
 | 45 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) | [`</>`](/Medium/131%20Palindrome%20Partitioning.ts) |
 | 46 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [`</>`](/Medium/153%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.ts) |
+| 47 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [`</>`](/Medium/49%20Group%20Anagrams.ts) |
 
 
 ## Contributing
