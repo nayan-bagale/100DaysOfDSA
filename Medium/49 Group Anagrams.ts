@@ -17,7 +17,7 @@ function groupAnagrams(strs: string[]) {
     }
   }
 
-  return res;
+  return Object.values(res);
 }
 
 console.log(groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]));
