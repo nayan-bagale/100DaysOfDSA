@@ -61,6 +61,9 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 | 46 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [`</>`](/Medium/153%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.ts) |
 | 47 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [`</>`](/Medium/49%20Group%20Anagrams.ts) |
 | 48 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [`</>`](/Medium/3%20Longest%20Substring%20Without%20Repeating%20Characters.ts) |
+| 49 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [`</>`](/Easy/28%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.ts) |
+| 50 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [`</>`](/Easy/125%20Valid%20Palindrome.ts) |
+| 51 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [`</>`](/Medium/567%20Permutation%20in%20String.ts) |
 
 
 ## Contributing
