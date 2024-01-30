@@ -60,6 +60,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 | 45 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) | [`</>`](/Medium/131%20Palindrome%20Partitioning.ts) |
 | 46 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [`</>`](/Medium/153%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.ts) |
 | 47 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [`</>`](/Medium/49%20Group%20Anagrams.ts) |
+| 48 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [`</>`](/Medium/3%20Longest%20Substring%20Without%20Repeating%20Characters.ts) |
 
 
 ## Contributing
