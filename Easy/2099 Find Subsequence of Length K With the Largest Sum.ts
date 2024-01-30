@@ -1,36 +1,37 @@
 //TODO:Complete it
 
-const sum = (nums: number[], start: number, end: number): number => {
-  let totalSum = 0;
-  for (let i = start; i <= end; i++) {
-    totalSum += nums[i];
-    
-  }
-  return totalSum;
-};
+function maxSubsequence(nums: number[], k: number) {
+  let ans:number[] = [];
+  let res: {[key: string] : number[]} = {};
 
-function maxSubsequence(nums: number[], k: number): number[] {
-    nums.sort((a, b) => a - b);
-  let start = 0,
-    end = 0;
-  let i = 0,
-    j = k - 1;
-  let maxVal = nums[0];
-
-  while (j < nums.length) {
-    let temp = Math.max(maxVal, sum(nums, i, j));
-    if(temp !== maxVal){
-        maxVal=temp;
-        start = i;
-        end = j;
+  const dfs = (c:number) => {
+    if(ans.length === k){
+      let tempSum = ans.reduce((a,c) => a+c)
+      res[tempSum] = [...ans];
+      return;
     }
-    i++;
-    j++;
+
+    for(let i=c; i<nums.length; i++){
+      ans.push(nums[i])
+      dfs(i+1)
+      ans.pop();
+    }
+
   }
-  return nums.slice(start, end + 1);
+  dfs(0);
+
+  let keys = Object.keys(res).map((e) => +e)
+  let max = keys[0];
+  for(let i=1; i<keys.length; i++){
+    if(max < keys[i]) max = keys[i];
+  }
+
+  return res[max]
 }
 
-console.log(maxSubsequence([2, 1, 3, 3], 2))
-console.log(maxSubsequence([-1,-2,3,4], 3))
-console.log(maxSubsequence([3,4,3,3], 2))
-console.log(maxSubsequence([50, -75], 2));
+// console.log(maxSubsequence([2, 1, 3, 3], 2))
+// console.log(maxSubsequence([-1,-2,3,4], 3))
+// console.log(maxSubsequence([3,4,3,3], 2))
+// console.log(maxSubsequence([50, -75], 2));
+console.log(maxSubsequence([33,-27,-9,-83,48], 2));
+console.log(maxSubsequence([63,-74,61,-17,-55,-59,-10,2,-60,-65], 9));
