@@ -1,17 +1,17 @@
 function plusOne(digits: number[]): number[] {
-  let lastVal = 1;
-  let div = 1;
+  let lastDigit = 1;
+  let carry = 1;
   let res: number[] = [];
   for (let i = digits.length - 1; 0 <= i; i--) {
-    let value = digits[i] + div;
+    let value = digits[i] + carry;
 
-    lastVal = value % 10;
-    div = Math.floor(value / 10);
+    lastDigit = value % 10;
+    carry = Math.floor(value / 10);
 
-    res.push(lastVal);
+    res.push(lastDigit);
 
-    if (i === 0 && div !== 0) {
-      res.push(div);
+    if (i === 0 && carry !== 0) {
+      res.push(carry);
     }
   }
 
