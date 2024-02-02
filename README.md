@@ -64,6 +64,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 | 49 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [`</>`](/Easy/28%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.ts) |
 | 50 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [`</>`](/Medium/567%20Permutation%20in%20String.ts) |
 | 51 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [`</>`](/Easy/125%20Valid%20Palindrome.ts) |
+| 52 | [66. Plus One](https://leetcode.com/problems/plus-one/description/) | [`</>`](/Easy/66.%20Plus%20One.ts) |
 
 
 ## Contributing
