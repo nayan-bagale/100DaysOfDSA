@@ -1,20 +1,23 @@
 class MinStack {
   private stack: number[] = [];
-  private min: number = Infinity;
+  private minStack: number[] = [];
+
   constructor() {}
 
   push(val: number): void {
     this.stack.push(val);
-    this.min = Math.min(val, this.min);
+    if (
+      this.minStack.length === 0 ||
+      val <= this.minStack[this.minStack.length - 1]
+    ) {
+      this.minStack.push(val);
+    }
   }
 
   pop(): void {
     let deleted = this.stack.pop();
-    if (this.min === deleted) {
-      this.min = this.stack.reduce(
-        (min, curr) => Math.min(min, curr),
-        Infinity
-      );
+    if (deleted === this.minStack[this.minStack.length - 1]) {
+      this.minStack.pop();
     }
   }
 
@@ -23,6 +26,6 @@ class MinStack {
   }
 
   getMin(): number {
-    return this.min ?? null;
+    return this.minStack[this.minStack.length - 1] ?? null;
   }
 }
