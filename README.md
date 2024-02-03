@@ -66,6 +66,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 | 51 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [`</>`](/Easy/125%20Valid%20Palindrome.ts) |
 | 52 | [66. Plus One](https://leetcode.com/problems/plus-one/description/) | [`</>`](/Easy/66.%20Plus%20One.ts) |
 | 53 | [15. 3Sum](https://leetcode.com/problems/plus-one/description/) | [`</>`](/Medium/15%203Sum.ts) |
+| 54 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | [`</>`](/Medium/155%20Min%20Stack.ts) |
 
 
 ## Contributing
