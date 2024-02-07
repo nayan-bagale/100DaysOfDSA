@@ -68,6 +68,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 | 53 | [15. 3Sum](https://leetcode.com/problems/plus-one/description/) | [`</>`](/Medium/15%203Sum.ts) |
 | 54 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | [`</>`](/Medium/155%20Min%20Stack.ts) |
 | 55 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [`</>`](/Easy/160%20Intersection%20of%20Two%20Linked%20Lists.ts) |
+| 56 | [136. Single Number](https://leetcode.com/problems/single-number/description/) | [`</>`](/Easy/136%20Single%20Number.ts) |
 
 
 ## Contributing
