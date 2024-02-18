@@ -71,6 +71,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 | 56 | [136. Single Number](https://leetcode.com/problems/single-number/description/) | [`</>`](/Easy/136%20Single%20Number.ts) |
 | 57 | [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | [`</>`](/Easy/119%20Pascal's%20Triangle%20II.ts) |
 | 58 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [`</>`](/Easy/232%20Implement%20Queue%20using%20Stacks.ts) |
+| 59 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [`</>`](/Medium/150%20Evaluate%20Reverse%20Polish%20Notation.ts) |
 
 
 ## Contributing
