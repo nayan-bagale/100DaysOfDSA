@@ -70,6 +70,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 | 55 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [`</>`](/Easy/160%20Intersection%20of%20Two%20Linked%20Lists.ts) |
 | 56 | [136. Single Number](https://leetcode.com/problems/single-number/description/) | [`</>`](/Easy/136%20Single%20Number.ts) |
 | 57 | [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | [`</>`](/Easy/119%20Pascal's%20Triangle%20II.ts) |
+| 58 | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [`</>`](/Easy/232%20Implement%20Queue%20using%20Stacks.ts) |
 
 
 ## Contributing
