@@ -74,6 +74,8 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 | 59 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [`</>`](/Medium/150%20Evaluate%20Reverse%20Polish%20Notation.ts) |
 | 60 | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) | [`</>`](/Easy/225%20Implement%20Stack%20using%20Queues.ts) |
 | 61 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [`</>`](/Medium/54%20Spiral%20Matrix.ts) |
+| 62 | [494. Target Sum](https://leetcode.com/problems/target-sum/description/) | [`</>`](/Medium/494%20Target%20Sum.ts) |
+| 63 | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/) | [`</>`](/Medium/921%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.ts) |
 
 
 ## Contributing
