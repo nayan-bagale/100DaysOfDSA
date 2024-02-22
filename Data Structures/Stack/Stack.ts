@@ -17,9 +17,13 @@ class Stack<T> {
   }
 
   isEmpty(): boolean {
-    console.log(this.stack);
     return this.stack.length === 0;
   }
+
+  size(): number {
+    return this.stack.length;
+  }
+
 }
 
 export default Stack;
