@@ -1,4 +1,4 @@
-//Todo: Complete the code.
+//TODO: Complete the code.
 
 function coinChange(coins: number[], amount: number): number {
   let j = coins.length - 1,
