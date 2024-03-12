@@ -76,6 +76,7 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 | 61 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [`</>`](/Medium/54%20Spiral%20Matrix.ts) |
 | 62 | [494. Target Sum](https://leetcode.com/problems/target-sum/description/) | [`</>`](/Medium/494%20Target%20Sum.ts) |
 | 63 | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/) | [`</>`](/Medium/921%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.ts) |
+| 64 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [`</>`](/Medium/22%20Generate%20Parentheses.ts) |
 
 
 ## Contributing
