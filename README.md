@@ -77,6 +77,8 @@ The repository is structured by difficulty (Easy, Medium, Hard), but you can als
 | 62 | [494. Target Sum](https://leetcode.com/problems/target-sum/description/) | [`</>`](/Medium/494%20Target%20Sum.ts) |
 | 63 | [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/) | [`</>`](/Medium/921%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.ts) |
 | 64 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [`</>`](/Medium/22%20Generate%20Parentheses.ts) |
+| **Remaining to post on social media** |
+| 65 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [`</>`](/Medium/75%20Sort%20Colors.ts) |
 
 
 ## Contributing
